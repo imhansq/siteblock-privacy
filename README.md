@@ -21,4 +21,4 @@ siteblock-privacy
 > - 광고 네트워크, 분석 도구, 추적 픽셀 등을 사용하지 않습니다.
 >
 > 5. 문의
-> - 문의 사항이 있을 경우, 개발자 이메일: your-email@example.com 로 연락해 주세요.
+> - 문의 사항이 있을 경우, 개발자 이메일: nexenhm172@gmail.com 로 연락해 주세요.
